@@ -1,0 +1,23 @@
+{
+  "name": "functionalize",
+  "version": "1.0.0",
+  "description": "More functional programming, less keyword this.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/js-zero/functionalize.git"
+  },
+  "keywords": [
+    "functional",
+    "util"
+  ],
+  "author": "Gilbert <gilbertbagrza@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/js-zero/functionalize/issues"
+  },
+  "homepage": "https://github.com/js-zero/functionalize#readme"
+}
